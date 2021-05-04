@@ -1,0 +1,13 @@
+# pip install -U -r requirements.txt
+numpy
+scipy
+opencv-python
+torch
+torchvision
+matplotlib
+pycocotools
+tqdm
+pillow
+tensorboard
+pyyaml
+strsim
